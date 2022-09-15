@@ -1,0 +1,26 @@
+ /*  Navbar  */
+
+
+
+ .navbar, li, a {
+    text-decoration: none;
+    list-style-type: none;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;font-size: 18px;
+    color: rgb(96, 88, 88);
+    display: inline;
+    position: static;
+    margin: 10px;
+    
+}
+
+.header {
+    font-size: 16px;
+    color: #2C3639;
+    font-family: 'Roboto', sans-serif;
+    text-align:center;
+}
+
+body {
+    background-color: rgb(222, 221, 165);
+}
